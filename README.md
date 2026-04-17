@@ -6,6 +6,6 @@ You can Search and stuff just by typing browse!
 
 to visit websites you need to type "browse https://example.example" or something similar!
 
-creator's note: I accidentally typed browser instead of browse
+creator's note: I accidentally typed browser instead of browse, you may need to type tui-browser for amd64
 
 NOTE: This browser only handles basic things, no redirects yet or even functions
