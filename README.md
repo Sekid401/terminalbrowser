@@ -4,4 +4,6 @@ Say hello to browsers in the terminal!
 
 You can Search and stuff just by typing browse!
 
-to visit websites you need to type "browser https://example.example" or something similar!
+to visit websites you need to type "browse https://example.example" or something similar!
+
+creator's note: I accidentally typed browser instead of browse
