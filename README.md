@@ -9,3 +9,5 @@ to visit websites you need to type "browse https://example.example" or something
 creator's note: I accidentally typed browser instead of browse, you may need to type tui-browser for amd64, browse for arm64
 
 NOTE: This browser only handles basic things, no redirects yet (editor's note: there are redirects, up/down arrow key then enter) or even functions
+
+note: on versions higher than v1.0.0 you have to type tui-browser instead of browse
